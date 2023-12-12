@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Alex's Blog
-subtitle: 'Game Dev'
+title: Alex的开发日志
+subtitle: 'App开发经验记录'
 description: '此处无描述'
 keywords:
 author: AC
 language: zh-Hans
-timezone: 'Asia/Shanghai'
+timezone: 'Asia/Shanghai' 
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
