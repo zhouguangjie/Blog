@@ -104,4 +104,4 @@ theme: next
 deploy:
   type: 'git'
   repo: git@github.com:zhouguangjie/Blog.git
-  branch: main
+  branch: gh-pages
