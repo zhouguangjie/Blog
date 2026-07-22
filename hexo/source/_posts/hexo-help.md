@@ -1,7 +1,6 @@
 ---
-title: hexo帮助
-date: 2025-06-23 18:07:01
-layout: hexo帮助
+title: Hexo个人使用手册
+date: 2026-07-22 11:57:01
 ---
 # 教程
 在官网下载安装 node.js
@@ -10,7 +9,7 @@ layout: hexo帮助
 `npm install -g hexo-cli`
 
 进入工作目录  
-`cd gameswebsite`
+`cd hexo`
 
 生成网站  
 `hexo g`
