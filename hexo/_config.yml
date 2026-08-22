@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Alex的开发日志
-subtitle: 'App开发经验记录'
-description: '此处无描述'
+title: BTBASE日志
+subtitle: 'BTBASE DEV LOG'
+description: 'BTBASE DEV LOG'
 keywords:
 author: AC
 language: zh-CN
@@ -103,5 +103,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:zhouguangjie/Blog.git
+  repo: git@github.com:BTBaseNetwork/www.git
   branch: gh-pages
